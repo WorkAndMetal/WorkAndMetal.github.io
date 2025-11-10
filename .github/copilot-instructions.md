@@ -1,0 +1,13 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created. Created checklist file.
+- [x] Clarify Project Requirements. User requested a Next.js site with TypeScript and Tailwind.
+- [x] Scaffold the Project (blocked: Node.js tooling unavailable on system). Manually scaffolded Next.js TypeScript + Tailwind structure since Node.js CLI unavailable.
+- [x] Customize the Project. Implemented landing page hero, yaklaşım, ilan yönlendirmesi ve iletişim kartları.
+- [x] Install Required Extensions. No extensions needed.
+- [x] Compile the Project. Installed Node.js dependencies and verified `npm run build` succeeds.
+- [x] Create and Run Task. Added VS Code task for `npm run dev` and confirmed it launches successfully.
+- [x] Launch the Project. Started Next.js dev task for review.
+- [x] Ensure Documentation is Complete. README.md refreshed and checklist comments removed.
+
+- Work through each checklist item systematically.
+- Keep communication concise and focused.
+- Follow development best practices.
